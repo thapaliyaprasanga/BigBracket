@@ -14,7 +14,7 @@
  }
 
  table, th, td{
-     border: 1px solid #000;
+     border: 1px solid #ddd;
  }
 
  table{
@@ -25,7 +25,7 @@
      display: flex;
      justify-content: center;
      flex-direction: column;
-        width: 500px;
+        max-width: 500px;
         margin: auto;
         margin-top: 3rem;    
 }
